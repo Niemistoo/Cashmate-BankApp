@@ -16,7 +16,10 @@ pointing device, and to learn both
 individual and group ICT project
 management skills.
 
-![Figure 1: Application main menu](/images/Cashmate_Usermenu.jpg)
+<img src="images/Cashmate_Usermenu.png">
+
+Figure 1: Application main menu
+
 
 ## Objectives
 The principal objective of the project
@@ -59,7 +62,9 @@ app are the latest Windows or
 macOS and a Qt Creator version
 with serial port capabilities.
 
-![Figure 2: MySQL database ER chart](/images/Cashmate_database.jpg)
+<img src="images/Cashmate_database.png">
+
+Figure 2: MySQL database ER chart
 
 ## Results
 The project works precisely as
@@ -77,7 +82,9 @@ Figure 3 below) and make both
 fixed-amount and customized
 withdrawals.
 
-![Figure 3: View Transactions Menu](/images/Cashmate_Transactions.jpg)
+<img src="images/Cashmate_Transactions.png">
+
+Figure 3: View Transactions Menu
 
 ## Conclusions
 The project was a success. The
